@@ -9,6 +9,7 @@
     "build": "plasmo build"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.0",
     "@mantine/core": "^5.2.4",
     "@mantine/hooks": "^5.2.4",
     "axios": "^0.27.2",
@@ -35,6 +36,5 @@
     "permissions": [
       "tabs"
     ]
-
   }
 }
